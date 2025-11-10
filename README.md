@@ -19,6 +19,10 @@
 - نصائح لرفع  الترخي
 
 ---
+## التحميل: 
+
+[![تحميل من موقع Apkpure](https://apkpure.com/ar/static/img/logo.png)](https://apkpure.com/p/com.changed.account0)
+
 
 ## ⚙️ المميزات الرئيسية
 
