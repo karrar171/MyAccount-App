@@ -6,6 +6,9 @@
 
 ---
 
+<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/53da9571-ddfd-47be-9fba-263bc5f10783" />
+
+
 ## 🌟 الوصف
 
 يساعدك التطبيق على ترتيب حسابات السوشيال ميديا بخطوات بسيطة ويعطيك كل ما تحتاجه عشان تبرز:
@@ -143,5 +146,3 @@ https://t.me/App_MyAccount/4
 https://t.me/App_MyAccount/4
 
 ---
-
-<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/53da9571-ddfd-47be-9fba-263bc5f10783" />
