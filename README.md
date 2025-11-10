@@ -21,7 +21,10 @@
 ---
 ## التحميل: 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/APKPure_logo.svg/512px-APKPure_logo.svg.png)](https://apkpure.com/p/com.changed.account0)
+من apkpure: 
+https://apkpure.com/p/com.changed.account0
+من Telegram: 
+https://t.me/App_MyAccount/4
 
 
 ## ⚙️ المميزات الرئيسية
