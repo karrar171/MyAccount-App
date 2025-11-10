@@ -21,7 +21,7 @@
 ---
 ## التحميل: 
 
-[![تحميل من موقع Apkpure](https://apkpure.com/ar/static/img/logo.png)](https://apkpure.com/p/com.changed.account0)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/APKPure_logo.svg/512px-APKPure_logo.svg.png)](https://apkpure.com/p/com.changed.account0)
 
 
 ## ⚙️ المميزات الرئيسية
