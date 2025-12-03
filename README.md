@@ -7,7 +7,7 @@ An app that helps you organize your social media accounts easily and gives you a
 
 ---
 
-<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/53da9571-ddfd-47be-9fba-263bc5f10783" />🌟 Description
+<img width="672" height="1536" alt="Image" src="https://github.com/user-attachments/assets/cf7d5d5b-693e-41c3-ae9c-464e2600b425" />🌟 Description
 
 The app helps you organize your social media accounts effortlessly and provides everything you need to shine:
 
