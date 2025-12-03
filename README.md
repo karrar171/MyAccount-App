@@ -1,140 +1,217 @@
-# 🪄 AZyfro Account
+🪄 AZyfro Account
 
-**تطبيق يساعدك على ترتيب حساباتك في السوشيال ميديا بخطوات بسيطة ويعطيك كل الأدوات اللي تحتاجها حتى تبرز ✨**
+An app that helps you organize your social media accounts easily and gives you all the tools you need to stand out ✨
 
-📱 **Android Only** — سهل الاستخدام، نسخ ولصق بنقرة وحدة!
+📱 Android Only — Easy to use, copy & paste with a single click!
+
 
 ---
 
-<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/53da9571-ddfd-47be-9fba-263bc5f10783" />
+<img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/53da9571-ddfd-47be-9fba-263bc5f10783" />🌟 Description
+
+The app helps you organize your social media accounts effortlessly and provides everything you need to shine:
+
+Username generator (triple, quadruple, quintuple)
+
+Ready-to-use stylish bios
+
+Copyable poetry
+
+Name decoration
+
+Arabic music library
+
+Professional avatars
+
+Tips to increase engagement
 
 
-## 🌟 الوصف
-
-يساعدك التطبيق على ترتيب حسابات السوشيال ميديا بخطوات بسيطة ويعطيك كل ما تحتاجه عشان تبرز:
-
-- مولد يوزرات (ثلاثية، رباعية، خماسية)
-- بايوات جاهزة وحلوة
-- شعر قابل للنسخ
-- زخرفة للأسماء
-- مكتبة موسيقى عربية
-- أفاتارات احترافية
-- نصائح لرفع  الترخي
 
 ---
-## التحميل: 
 
-من apkpure: 
+Download:
+
+From APKPure:
 https://apkpure.com/p/com.changed.account0
-من Telegram: 
+From Telegram:
 https://t.me/AZyfro/7
 
 
-## ⚙️ المميزات الرئيسية
-
-- **يخمن يوزرات** — مولد ذكي يقترح تشكيلات يوزر (3 / 4 / 5 أحرف)
-- **بايوات جاهزة** — مئات العبارات المناسبة للتيك توك، إنستا، تويتر
-- **شعر جاهز** — أبيات قصيرة قابلة للنسخ والمشاركة
-- **زخرفة الاسم** — توليد زخارف جميلة مع نسخ سريع
-- **موسيقى عربية** — مكتبة مقتطفات موسيقية قصيرة (روابط ونماذج)
-- **أفاتارات لملفك** — صور جاهزة بجودة عالية
-- **نصائح عامة** — خطوات عملية لرفع التفاعل وحماية الحساب
-- **واجهة بسيطة وسريعة** — نسخ بنقرة واحدة ومشاركة مباشرة
-
 ---
 
-## ⚠️ تحذير أخلاقي
+⚙️ Key Features
 
-> التطبيق مخصص للإبداع فقط —  
-> لا تستخدم ميزة "تخمين اليوزرات" لأغراض ضارة أو تعقب أو اختراق.  
-> استخدمه باحترام وبما يتوافق مع قوانين المنصات.
+Username Guesser — Smart generator suggesting username patterns (3 / 4 / 5 characters)
 
----
+Ready Bios — Hundreds of phrases suitable for TikTok, Instagram, Twitter
 
-## 📋 لستة مفصّلة للمميزات
+Ready Poetry — Short copyable and shareable verses
 
-### 1. مولد يوزرات
-- أوضاع: ثلاثية، رباعية، خماسية  
-- خيارات: أحرف فقط / أحرف + أرقام / رموز بسيطة  
-- فلتر لحجب الكلمات المسيئة  
-- زر نسخ ومشاركة  
+Name Decoration — Beautiful decorative styles with quick copy
 
-### 2. بايوات جاهزة
-- مجموعات: رومانسية، طريفة، احترافية، اقتباسات، عربية / إنجليزية  
-- بحث داخل القوائم  
-- حفظ المفضلة  
+Arabic Music — Library of short music clips (links & samples)
 
-### 3. شعر / اقتباسات
-- أبيات قصيرة قابلة للنسخ  
-- تصنيفات: حب / حزن / تحفيز  
-- مشاركة سريعة  
+Profile Avatars — High-quality ready-to-use images
 
-### 4. زخرفة الاسم
-- مئات الأنماط الجاهزة  
-- تحويل تلقائي عند الكتابة  
-- معاينة قبل النسخ  
+General Tips — Practical steps to boost engagement and protect your account
 
-### 5. موسيقى عربية
-- مكتبة مقتطفات موسيقية قصيرة  
-- حقوق واضحة (مقاطع خالية من الحقوق أو مرخّصة)  
-- معاينة ونسخ رابط  
+Simple & Fast Interface — Copy with one click and share directly
 
-### 6. أفاتارات وصور الملف
-- قوالب صور وأيقونات بجودة عالية  
-- تعديل بسيط (قص / تدوير)  
-- حفظ ومشاركة  
-
-### 7. نصائح وHow-To
-- خطوات أمان الحساب  
-- تحسين البروفايل  
-- أفضل أوقات النشر  
-- نصائح للهاشتاغ  
-
-### 8. إضافات مقترحة
-- مولد هاشتاقات ذكي حسب الكلمة المفتاحية  
-- فحص توافر اليوزر (تنبيه فقط، لا يحاول تسجيل دخول)  
-- قالب بايو متغير تلقائياً لمنصات متعددة (IG / TikTok)  
-- ثيمات واجهة (فاتح / داكن + ألوان جاهزة)  
-- حفظ القوالب الخاصة بالمستخدم  
-
----
-
-## 🖼️ شاشات التطبيق المقترحة
-
-1. **الشاشة الرئيسية:** شبكة بخانات — (يوزرات، زخرفة، بايو، شعر، موسيقى، أفاتارات، نصائح)  
-2. **مولد اليوزرات:** اختيار العدد، نوع الحروف، زر توليد  
-3. **معاينة الزخارف:** إدخال اسم + عرض الأنماط + نسخ  
-4. **مكتبة البايو:** فئات + زر قلب للحفظ + نسخ  
-5. **المفضلات:** كل ما أعجبك محفوظ هنا  
-6. **الإعدادات:** تفعيل/تعطيل الإعلانات، الثيم، مشاركة التطبيق  
-
----
-
-## 💡 ملاحظات
-
-- التطبيق تحت التطوير المستمر 🚧  
-- سيتم تحديث المحتوى وإضافة المميزات الجديدة تدريجياً  
-
----
-
-## 📦 التثبيت (Installation)
-
-1. نزّل ملف الـ APK من قسم **Releases**.  
-2. افتحه على هاتفك الأندرويد وثبّته بشكل طبيعي.  
-3. استمتع بتجربتك في ترتيب حساباتك بسهولة! 😎
 
 
 ---
 
-## 🤝 المساهمة (Contributing)
+⚠️ Ethical Warning
 
-هل تريد تساعد في تطوير التطبيق؟  
-افتح **Pull Request** أو اكتب **Issue** بالأفكار والملاحظات ❤️  
+> The app is for creative purposes only —
+Do not use the "Username Guesser" feature for harmful purposes, tracking, or hacking.
+Use it responsibly and according to platform rules.
+
+
+
 
 ---
 
-## قناتي على التيليجرام
-لحصول كل شيء جديد و تحديثات مسترمة ادخل لقناتي على التيليجرام
-https://t.me/AZyfro/7
+📋 Detailed Feature List
+
+1. Username Generator
+
+Modes: Triple, Quadruple, Quintuple
+
+Options: Letters only / Letters + Numbers / Simple symbols
+
+Filter to block offensive words
+
+Copy & share button
+
+
+2. Ready Bios
+
+Collections: Romantic, Funny, Professional, Quotes, Arabic / English
+
+In-list search
+
+Save favorites
+
+
+3. Poetry / Quotes
+
+Short verses ready to copy
+
+Categories: Love / Sad / Motivational
+
+Quick share
+
+
+4. Name Decoration
+
+Hundreds of ready-made styles
+
+Automatic conversion while typing
+
+Preview before copying
+
+
+
+
+
+6. Avatars & Profile Images
+
+High-quality templates & icons
+
+Simple editing (crop / rotate)
+
+Save & share
+
+
+7. Tips & How-To
+
+Account security steps
+
+Profile improvement
+
+Best posting times
+
+Hashtag tips
+
+
+8. Suggested Add-ons
+
+Smart hashtag generator by keyword
+
+Username availability check (alerts only, no login attempt)
+
+Auto-changing bio template for multiple platforms (IG / TikTok)
+
+Interface themes (Light / Dark + preset colors)
+
+Save user templates
+
+
+
+---
+
+🖼️ Suggested App Screens
+
+1. Home Screen: Grid layout — (Usernames, Decoration, Bios, Poetry, Music, Avatars, Tips)
+
+
+2. Username Generator: Select quantity, character type, generate button
+
+
+3. Decoration Preview: Enter name + display styles + copy
+
+
+4. Quote Library: Categories + heart button to save + copy
+
+
+5. Favorites: All saved content here
+
+
+6. Settings: Enable/disable ads, theme, share app
+
+
+
+
+---
+
+💡 Notes
+
+App is under continuous development 🚧
+
+Content updates and new features will be added gradually
+
+
+
+---
+
+📦 Installation
+
+1. Download the APK file from Releases.
+
+
+2. Open it on your Android device and install normally.
+
+
+3. Enjoy organizing your accounts effortlessly! 😎
+
+
+
+
+---
+
+🤝 Contributing
+
+Want to help develop the app?
+Open a Pull Request or submit an Issue with ideas and feedback ❤️
+
+
+---
+
+Telegram Channel
+
+For all updates and new content, join my Telegram channel:
+https://t.me/AZyfro
+
 
 ---
